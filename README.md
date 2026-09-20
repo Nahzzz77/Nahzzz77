@@ -30,22 +30,75 @@
 - 把产品拆解、竞品研究和中文写作方法做成可复用的 Codex Skills
 - 持续记录 AI 产品判断、项目复盘与真实使用体验
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Product-3F5363?style=flat-square" alt="AI Product" />
-  <img src="https://img.shields.io/badge/Agent%20UX-657C89?style=flat-square" alt="Agent UX" />
-  <img src="https://img.shields.io/badge/Product%20Strategy-A75D36?style=flat-square" alt="Product Strategy" />
-  <img src="https://img.shields.io/badge/Evaluation-3F5363?style=flat-square" alt="Evaluation" />
-  <img src="https://img.shields.io/badge/Python-657C89?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Codex-A75D36?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-</p>
-
 ### Selected Work
+
+#### 产品与应用
+
+| 项目 | 形态 | 解决的问题 |
+| --- | --- | --- |
+| [TrendPilot](https://github.com/Nahzzz77/trendpilot-ai-ecommerce-copilot) | AI 电商运营助手 · 本地 MVP | 从经营数据发现异常，用可追溯的证据组织原因假设与行动建议 |
+| [SignalBloom](https://github.com/Nahzzz77/signal-bloom) | AI 内容工作流 · MVP | 串联线索去重、事实核验与写作质检，生成供人工终审的编辑包 |
+| [Product Factory Agent](https://github.com/Nahzzz77/product-factory-agent) | 本地产品交付工作台 | 从已确认 PRD 推进开发阶段，记录人工审批、执行状态与验收证据 |
+| [政策情报台](https://github.com/Nahzzz77/policy-workbench) | 政策检索工作台 | 聚合政府官网政策，保留原文出处，支持筛选检索与本地简报 |
+| [小爪星球](https://github.com/Nahzzz77/paw-planet-action-poc) | 宠物互动 · 本地 POC | 验证宠物照片上传、卡通形象确认与动作互动，当前以已验收缓存演示 |
+| [追因](https://github.com/Nahzzz77/zhuiyin-root-cause-locator) | 代码根因定位 · 演示版 | 将业务异常转成带源码证据的排查候选，交给开发复核 |
+| [悬岛 HoverIsle](https://github.com/Nahzzz77/HoverIsle) | Mac 桌面工具 · 二次开发 | 基于 [TO-DO-Panel](https://github.com/xiaopu-ai/TO-DO-Panel) 改造顶部工作台，集中管理待办、笔记与录音 |
+
+#### 可复用 Skills
 
 | 项目 | 关注的问题 |
 | --- | --- |
-| [Architecture Decomposition](https://github.com/Nahzzz77/architecture-decomposition-skill) | 如何从公开证据还原 AI 产品真正的运行结构 |
-| [Competitive Analysis](https://github.com/Nahzzz77/aihanlab-competitive-analysis) | 如何把竞品证据、比较和结论形成可靠工作流 |
-| [Human Writing](https://github.com/Nahzzz77/human-writing) | 如何让中文创作保留真实表达，而不是模型腔 |
+| [Architecture Decomposition](https://github.com/Nahzzz77/architecture-decomposition-skill) | 如何从公开证据还原 AI 产品的运行结构 |
+| [Competitive Analysis](https://github.com/Nahzzz77/aihanlab-competitive-analysis) | 如何把竞品证据、比较和结论形成可复用的研究流程 |
+| [Human Writing](https://github.com/Nahzzz77/human-writing) | 如何让中文创作与改稿保留自然表达，并核验事实与来源 |
+
+[查看全部公开项目 →](https://github.com/Nahzzz77?tab=repositories)
+
+### Working Stack
+
+项目中使用的技术、工具与产品方法，覆盖原型实现、Agent 工作流和产品研究。
+
+<table>
+  <tr>
+    <th align="right">Code</th>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">Build</th>
+    <td>
+      <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/macOS-222222?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">AI</th>
+    <td>
+      <img src="https://img.shields.io/badge/Codex-A75D36?style=flat-square" alt="Codex" />
+      <img src="https://img.shields.io/badge/Agent%20Skills-657C89?style=flat-square" alt="Agent Skills" />
+      <img src="https://img.shields.io/badge/Prompt%20Design-657C89?style=flat-square" alt="Prompt Design" />
+      <img src="https://img.shields.io/badge/Evaluation-3F5363?style=flat-square" alt="Evaluation" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">Focus</th>
+    <td>
+      <img src="https://img.shields.io/badge/AI%20Product-3F5363?style=flat-square" alt="AI Product" />
+      <img src="https://img.shields.io/badge/Product%20Strategy-A75D36?style=flat-square" alt="Product Strategy" />
+      <img src="https://img.shields.io/badge/Agent%20UX-657C89?style=flat-square" alt="Agent UX" />
+      <img src="https://img.shields.io/badge/Writing-3F5363?style=flat-square" alt="Writing" />
+    </td>
+  </tr>
+</table>
 
 ### Notes
 
