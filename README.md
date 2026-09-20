@@ -40,6 +40,7 @@
 | [SignalBloom](https://github.com/Nahzzz77/signal-bloom) | AI 内容工作流 · MVP | 串联线索去重、事实核验与写作质检，生成供人工终审的编辑包 |
 | [Product Factory Agent](https://github.com/Nahzzz77/product-factory-agent) | 本地产品交付工作台 | 从已确认 PRD 推进开发阶段，记录人工审批、执行状态与验收证据 |
 | [政策情报台](https://github.com/Nahzzz77/policy-workbench) | 政策检索工作台 | 聚合政府官网政策，保留原文出处，支持筛选检索与本地简报 |
+| [槐川人生账本](https://github.com/Nahzzz77/life-ledger-huaichuan) | 互动人生选择游戏 | 在虚构县城中体验不同年代的人生，通过分支剧情呈现选择的后果与代价 |
 | [小爪星球](https://github.com/Nahzzz77/paw-planet-action-poc) | 宠物互动 · 本地 POC | 验证宠物照片上传、卡通形象确认与动作互动，当前以已验收缓存演示 |
 | [追因](https://github.com/Nahzzz77/zhuiyin-root-cause-locator) | 代码根因定位 · 演示版 | 将业务异常转成带源码证据的排查候选，交给开发复核 |
 | [悬岛 HoverIsle](https://github.com/Nahzzz77/HoverIsle) | Mac 桌面工具 · 二次开发 | 基于 [TO-DO-Panel](https://github.com/xiaopu-ai/TO-DO-Panel) 改造顶部工作台，集中管理待办、笔记与录音 |
