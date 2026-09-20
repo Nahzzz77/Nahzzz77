@@ -84,6 +84,7 @@
     <th align="right">AI</th>
     <td>
       <img src="https://img.shields.io/badge/Codex-A75D36?style=flat-square" alt="Codex" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
       <img src="https://img.shields.io/badge/Agent%20Skills-657C89?style=flat-square" alt="Agent Skills" />
       <img src="https://img.shields.io/badge/Prompt%20Design-657C89?style=flat-square" alt="Prompt Design" />
       <img src="https://img.shields.io/badge/Evaluation-3F5363?style=flat-square" alt="Evaluation" />
